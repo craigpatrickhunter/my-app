@@ -1,0 +1,45 @@
+html{
+  height:100%
+}
+
+ p {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body {
+    height: 100%;
+    background-repeat: no-repeat;
+    background: linear-gradient(0deg, white, blue)
+}
+
+h1.top-header{
+    color:white;
+    font: "Courier";
+    font-size: 500%
+}
+
+form{
+  font-size: 200%
+}
+
+select{
+  font-size: 90%
+}
+
+input.show_all_cameras_checkbox{
+  width: 20px;
+	height: 20px;
+}
+
+h1.error_message{
+  color:darkred;
+  font-size: 70%;
+  font-family: Helvitica
+}
+
+
+
+
+
+
+
+
